@@ -24,3 +24,7 @@ border-radius: 10px;
 .foto {
     width: 5%;
 }
+
+.foto{
+    background-image: -moz-linear-gradient(#0000,#f01111);
+}
