@@ -31,6 +31,7 @@ border-radius: 10px;
     color: white;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .dead-div-conteudo{
