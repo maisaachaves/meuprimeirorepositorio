@@ -46,4 +46,6 @@ border-radius: 10px;
     width: 140px;
 }
 
-.walking-div
+.walking-div{
+   text-align: center;
+}
