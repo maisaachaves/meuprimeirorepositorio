@@ -54,3 +54,8 @@ border-radius: 10px;
     text-align: center;
     padding: 50px 0;
 }
+
+.dead-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20% 20%;
+}
