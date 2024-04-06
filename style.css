@@ -30,6 +30,7 @@ border-radius: 10px;
     background-image: linear-gradient(#000000, #f50a0a);
     color: white;
     display: flex;
+    justify-content: center;
 }
 
 .dead-div-conteudo{
